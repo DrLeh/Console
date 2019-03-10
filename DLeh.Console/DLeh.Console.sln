@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28606.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DLeh.Console", "DLeh.Console\DLeh.Console.csproj", "{B5EA90B9-80B1-41C9-BDA2-89989F48DC8F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DLeh.Console.Sample", "DLeh.Console.Sample\DLeh.Console.Sample.csproj", "{5A0EA7F4-00C7-400B-8F88-C0686692CC73}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B5EA90B9-80B1-41C9-BDA2-89989F48DC8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5EA90B9-80B1-41C9-BDA2-89989F48DC8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5EA90B9-80B1-41C9-BDA2-89989F48DC8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5EA90B9-80B1-41C9-BDA2-89989F48DC8F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5A0EA7F4-00C7-400B-8F88-C0686692CC73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A0EA7F4-00C7-400B-8F88-C0686692CC73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A0EA7F4-00C7-400B-8F88-C0686692CC73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A0EA7F4-00C7-400B-8F88-C0686692CC73}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E1604CAF-0B5F-4CB4-9284-EE7E017E882B}
+	EndGlobalSection
+EndGlobal
